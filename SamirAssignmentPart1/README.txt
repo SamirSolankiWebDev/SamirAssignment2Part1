@@ -1,6 +1,7 @@
 ﻿Program name: Assignment 2 Part 1
 Program purpose : To review the components of an ASP.net MVC Application
 Program author : Samir Solanki
+Date Created :- 2022-01-11
 
 First Step :- Created the application and merge with github in the file
 
@@ -16,5 +17,7 @@ First Step :- Created the application and merge with github in the file
 
 
 - Change the nav class from navbar-light to navbar dark and bg-white to bgprimary
+
+Added Aditional 
 
 
