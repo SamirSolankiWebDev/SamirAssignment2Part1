@@ -18,6 +18,11 @@ First Step :- Created the application and merge with github in the file
 
 - Change the nav class from navbar-light to navbar dark and bg-white to bgprimary
 
-Added Aditional 
+Added Aditional file in layout.css
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="https://kit.fontawesome.com/e19c476714.js"></script>
 
 
