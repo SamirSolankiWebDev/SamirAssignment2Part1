@@ -25,6 +25,13 @@ Added Aditional file in layout.css
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <script src="https://kit.fontawesome.com/e19c476714.js"></script>
 
+Added the new Projects in this application 
+1) samirBooks.DataAccess and more
+
+-Copy data folder from main project to my other project 
+
+- deleted Migration folder from the applicatiion 
+
 
 
 
