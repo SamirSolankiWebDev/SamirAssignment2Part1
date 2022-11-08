@@ -43,5 +43,8 @@ reflect the project
 Delete default Class1.cs file 
 in all projects
 
+Rename Models folder to 
+ViewModels
+
 
 
