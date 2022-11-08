@@ -32,6 +32,16 @@ Added the new Projects in this application
 
 - deleted Migration folder from the applicatiion 
 
+Install NuGet package:
+- Identity.EntityFramework
+Core
+
+Modify the namespace to 
+reflect the project
+
+
+Delete default Class1.cs file 
+in all projects
 
 
 
